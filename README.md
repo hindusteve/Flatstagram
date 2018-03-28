@@ -1,9 +1,7 @@
 # Flatstagram
 Instagram style domain with two models (Image and Comment) - implemented with vanilla Javascript 
 
-# JavaScript Assessment
-
-For this assignment, we'll be working with an Instagram-style domain. We have two models - Image and Comment.
+We have two models - Image and Comment.
 For our purposes, an Image has many Comments, and a Comment belongs to an Image.
 
 ## Topics
